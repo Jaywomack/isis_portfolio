@@ -1,18 +1,6 @@
-/* inspiration https://onepagelove.com/lancify */
-/* colors */
-/* background: rgb(2,0,36);
-background: linear-gradient(215deg, rgba(2,0,36,1) 11%, rgba(58,47,148,1) 49%, rgba(96,95,98,1) 100%);
-background: rgb(2,0,36);
-background: linear-gradient(157deg, rgba(2,0,36,1) 26%, rgba(33,39,130,1) 56%, rgba(38,39,65,1) 83%, rgba(152,152,152,1) 100%);
-background: rgb(2,0,36);
-background: linear-gradient(198deg, rgba(2,0,36,1) 15%, rgba(17,94,76,1) 46%, rgba(90,133,100,1) 57%, rgba(49,84,49,1) 99%, rgba(152,152,152,1) 100%); */
-/* 5B8665 363959 718AAD 115E4C D6D9D3 */
+// _layout.sass — there are the styles for the header, footer, the grid system, etc
 body {
   margin: 0;
-}
-.isis-logo {
-  width: 150px;
-  height: 150px;
 }
 
 #card-grid-container {

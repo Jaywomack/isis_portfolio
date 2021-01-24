@@ -1,0 +1,47 @@
+/* colors */
+/* background: rgb(2,0,36);
+background: linear-gradient(215deg, rgba(2,0,36,1) 11%, rgba(58,47,148,1) 49%, rgba(96,95,98,1) 100%);
+background: rgb(2,0,36);
+background: linear-gradient(157deg, rgba(2,0,36,1) 26%, rgba(33,39,130,1) 56%, rgba(38,39,65,1) 83%, rgba(152,152,152,1) 100%);
+background: ;
+background:  */
+/*   # # # */
+body {
+  margin: 0; }
+
+#card-grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+  background: #080907;
+  margin: 0;
+  justify-content: center; }
+
+#reviews-grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px; }
+
+#scheduling-card-container {
+  padding: 40px;
+  margin-top: 35px; }
+
+footer {
+  height: 10vh; }
+
+.jumbotron-hero {
+  color: white;
+  background: #080907;
+  background: linear-gradient(90deg, #080907 0%, #06460e 70%, #96ab04 97%);
+  margin-bottom: 0; }
+
+.jumbotron-hero-span {
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2), color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22));
+  background-image: gradient(linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2), color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22));
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text; }
+
+.isis-logo {
+  width: 150px;
+  height: 150px; }

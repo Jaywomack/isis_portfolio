@@ -1,0 +1,22 @@
+{
+  "name": "isis_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "sass":"node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaywomack/isis_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaywomack/isis_portfolio/issues"
+  },
+  "homepage": "https://github.com/Jaywomack/isis_portfolio#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
